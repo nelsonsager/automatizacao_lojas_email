@@ -1,4 +1,4 @@
-# Automatizacao de Processos (indicadores)
+# Automatizacao de Processos (indicadores) em Python 
 
 O projeto foi desenvolvido para realizar calculos de indicadores economicos de forma automatica. <br>
 O projeto cria um OnePage (resumo simples) para avaliar as lojas que mais/menos faturaram no ano/dia, a partir de dados obtidos por planilhas Excel. <br>
